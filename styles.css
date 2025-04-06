@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f4f8;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #6e8efb;
+    color: white;
+    cursor: pointer;
+  }
+  
