@@ -12,18 +12,11 @@ A simple and uplifting Bible verse app that displays a new verse every time you 
 
 ##  How to Use
 
-###  Option 1: View Online (GitHub Pages)
+### View Online (GitHub Pages)
 
 Visit the hosted app here:[https://sophienalwe.github.io/verse-of-the-day](https://sophienalwe.github.io/verse-of-the-day) 
 
 Click the **"New Verse"** button to get a random Bible verse based on the theme you selected.
-
-
-###  Option 2: Run Locally
-
-1. Clone the repository:
-   ```bash
- git clone https://github.com/sophienalwe/verse-fo-the-day.git
 
  
 ## 🙏 Inspiration
