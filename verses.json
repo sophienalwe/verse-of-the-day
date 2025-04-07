@@ -1,7 +1,118 @@
 [
-    { "verse": "Romans 8:28", "text": "And we know that in all things God works for the good of those who love him..." },
-    { "verse": "Proverbs 3:5", "text": "Trust in the Lord with all your heart and lean not on your own understanding..." },
-    { "verse": "John 1:16", "text": "Out of his fullness we have all received grace in place of grace already given." },
-    { "verse": "2 Corinthians 12:9", "text": "My grace is sufficient for you, for my power is made perfect in weakness." }
-  ]
-  
+  {
+    "theme": "Peace for Anxiety",
+    "reference": "Isaiah 26:3",
+    "verse": "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
+  },
+  {
+    "theme": "Peace for Anxiety",
+    "reference": "Philippians 4:6-7",
+    "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God..."
+  },
+  {
+    "theme": "Peace for Anxiety",
+    "reference": "Matthew 6:34",
+    "verse": "Therefore do not worry about tomorrow, for tomorrow will worry about itself."
+  },
+  {
+    "theme": "Peace for Anxiety",
+    "reference": "Psalm 34:4",
+    "verse": "I sought the Lord, and he answered me; he delivered me from all my fears."
+  },
+  {
+    "theme": "Purpose + Calling",
+    "reference": "Ephesians 2:10",
+    "verse": "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
+  },
+  {
+    "theme": "Purpose + Calling",
+    "reference": "Esther 4:14",
+    "verse": "...for such a time as this."
+  },
+  {
+    "theme": "Purpose + Calling",
+    "reference": "Romans 12:6",
+    "verse": "We have different gifts, according to the grace given to each of us."
+  },
+  {
+    "theme": "Purpose + Calling",
+    "reference": "Jeremiah 29:11",
+    "verse": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
+  },
+  {
+    "theme": "Strength in Weakness",
+    "reference": "2 Corinthians 12:9",
+    "verse": "My grace is sufficient for you, for my power is made perfect in weakness..."
+  },
+  {
+    "theme": "Strength in Weakness",
+    "reference": "Isaiah 40:31",
+    "verse": "But those who hope in the Lord will renew their strength."
+  },
+  {
+    "theme": "Strength in Weakness",
+    "reference": "Psalm 73:26",
+    "verse": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
+  },
+  {
+    "theme": "Strength in Weakness",
+    "reference": "Romans 8:18",
+    "verse": "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us."
+  },
+  {
+    "theme": "Morning Encouragement",
+    "reference": "Lamentations 3:22-23",
+    "verse": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."
+  },
+  {
+    "theme": "Morning Encouragement",
+    "reference": "Psalm 5:3",
+    "verse": "In the morning, Lord, you hear my voice; in the morning I lay my requests before you and wait expectantly."
+  },
+  {
+    "theme": "Morning Encouragement",
+    "reference": "Mark 1:35",
+    "verse": "Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed."
+  },
+  {
+    "theme": "Morning Encouragement",
+    "reference": "Psalm 143:8",
+    "verse": "Let the morning bring me word of your unfailing love, for I have put my trust in you."
+  },
+  {
+    "theme": "Jesus’ Words",
+    "reference": "John 14:6",
+    "verse": "I am the way and the truth and the life. No one comes to the Father except through me."
+  },
+  {
+    "theme": "Jesus’ Words",
+    "reference": "Matthew 11:28",
+    "verse": "Come to me, all you who are weary and burdened, and I will give you rest."
+  },
+  {
+    "theme": "Jesus’ Words",
+    "reference": "John 16:33",
+    "verse": "In this world you will have trouble. But take heart! I have overcome the world."
+  },
+  {
+    "theme": "Jesus’ Words",
+    "reference": "Matthew 28:20",
+    "verse": "And surely I am with you always, to the very end of the age."
+  },
+  {
+    "theme": "Proverbs Pack",
+    "reference": "Proverbs 3:5-6",
+    "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+  },
+  {
+    "theme": "Proverbs Pack",
+    "reference": "Proverbs 31:25",
+    "verse": "She is clothed with strength and dignity; she can laugh at the days to come."
+  },
+  {
+    "theme": "Proverbs Pack",
+    "reference": "Proverbs 16:3",
+    "verse": "Commit to the Lord whatever you do, and he will establish your plans."
+  }
+]
+

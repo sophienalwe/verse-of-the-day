@@ -5,16 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Verse of the Day</title>
   <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="container">
     <h1>Verse of the Day</h1>
-    <div id="verse-box">
-      <h2 id="verse-ref">Loading...</h2>
-      <p id="verse-text"></p>
+
+    <div id="verseDisplay" class="verse-box">
+      <p>Select a theme to receive a verse.</p>
     </div>
-    <button onclick="getRandomVerse()">New Verse</button>
+
+    <select id="themeSelect">
+      <option value="">Select Theme</option>
+      <option value="Peace for Anxiety">Peace for Anxiety</option>
+      <option value="Purpose + Calling">Purpose + Calling</option>
+      <option value="Strength in Weakness">Strength in Weakness</option>
+      <option value="Morning Encouragement">Morning Encouragement</option>
+      <option value="Jesus’ Words">Jesus’ Words</option>
+      <option value="Proverbs Pack">Proverbs Pack</option>
+    </select>
+
+    <button id="generateBtn">New Verse</button>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>
