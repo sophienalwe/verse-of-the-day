@@ -56,3 +56,19 @@ button {
 button:hover {
   background-color: #357ab8;
 }
+#favorites-list {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #fef6e4;
+  border-radius: 10px;
+}
+
+#favorites-container li {
+  margin-bottom: 0.5rem;
+  padding: 0.3rem;
+  background-color: #fff;
+  border-left: 4px solid #ffd500;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
